@@ -1,0 +1,16 @@
+﻿<!--DSL Tools Language Template-->
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TemplateData>
+		<Name Package="{e0319584-b821-4bca-b15c-9b825d535441}" ID="103"/>
+		<Description Package="{e0319584-b821-4bca-b15c-9b825d535441}" ID="102"/>
+		<Icon Package="{e0319584-b821-4bca-b15c-9b825d535441}" ID="201" />
+		<ProjectType>VisualBasic</ProjectType>
+		<SortOrder>360</SortOrder>
+		<DefaultName>GEB_NGN_PCR_Practica1.GEB_NGN_PCR_prototools</DefaultName>
+	</TemplateData>
+	<TemplateContent>
+		<ProjectItem TargetFileName="$fileinputname$.GEB_NGN_PCR_prototools">GEB_NGN_PCR_prototools.GEB_NGN_PCR_prototools</ProjectItem>
+		<ProjectItem TargetFileName="$fileinputname$.GEB_NGN_PCR_prototools.diagram">GEB_NGN_PCR_prototools.diagram</ProjectItem>
+	</TemplateContent>
+</VSTemplate>
+

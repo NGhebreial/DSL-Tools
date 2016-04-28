@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gEB_NGN_PCR_Practica1Diagram dslVersion="1.0.0.0" Id="a1479431-d3ab-451b-988b-e4bed6558324" absoluteBounds="0, 0, 11, 8.5" name="Test">
+  <prototoolsMoniker Id="f3a84930-a514-4ba4-9b94-243f4d71cd47" />
+  <nestedChildShapes>
+    <compartmentShape1 Id="5f8fc2b4-c007-41ec-8f2c-a180ad7a9daa" absoluteBounds="2.25, 1.125, 1.5, 1">
+      <ventanaMoniker Id="7c6e837c-1dd6-48e0-a5e5-0b3bb8650146" />
+    </compartmentShape1>
+  </nestedChildShapes>
+</gEB_NGN_PCR_Practica1Diagram>

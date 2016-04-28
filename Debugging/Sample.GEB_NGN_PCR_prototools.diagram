@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gEB_NGN_PCR_Practica1Diagram dslVersion="1.0.0.0" Id="d212e7d8-2a76-4a74-90fb-fac730f6755e" absoluteBounds="0, 0, 11, 8.5" name="Sample">
+  <exampleModelMoniker Id="a9eff205-3420-4796-9ec1-6874409d42e6" />
+  <nestedChildShapes>
+    <exampleShape Id="d9064641-27a3-4263-8faf-7455d69fea03" absoluteBounds="0.5, 1.75, 2, 0.75">
+      <exampleElementMoniker name="/a9eff205-3420-4796-9ec1-6874409d42e6/ExampleElement1" />
+    </exampleShape>
+    <exampleShape Id="e684429f-829f-4703-ac7c-eb36f5d4efe8" absoluteBounds="3, 0.5, 2, 0.75">
+      <exampleElementMoniker name="/a9eff205-3420-4796-9ec1-6874409d42e6/ExampleElement2" />
+    </exampleShape>
+    <exampleConnector Id="bb0368b8-0b7c-4981-abe9-a184c67e5cbe" edgePoints="[(1.5 : 1.75); (1.5 : 0.875); (3 : 0.875)]" fixedFrom="Algorithm" fixedTo="Algorithm" TargetRelationshipDomainClassId="05ea73be-a60e-4d99-88bb-c8865488bb4f">
+      <nodes>
+        <exampleShapeMoniker Id="d9064641-27a3-4263-8faf-7455d69fea03" />
+        <exampleShapeMoniker Id="e684429f-829f-4703-ac7c-eb36f5d4efe8" />
+      </nodes>
+    </exampleConnector>
+  </nestedChildShapes>
+</gEB_NGN_PCR_Practica1Diagram>

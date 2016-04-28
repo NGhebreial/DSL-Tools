@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<prototools xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f3a84930-a514-4ba4-9b94-243f4d71cd47" xmlns="http://schemas.microsoft.com/dsltools/GEB_NGN_PCR_Practica1">
+  <ventana>
+    <prototoolsHasVentana Id="1f3467ea-54a3-434f-af63-c2c0e27bd83a">
+      <ventana Id="7c6e837c-1dd6-48e0-a5e5-0b3bb8650146" />
+    </prototoolsHasVentana>
+  </ventana>
+</prototools>
